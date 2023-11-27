@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Austin-codeviewr
-- 👀 I’m interested in Demo creating.
+- 👀 I’m interested in general componnent creating.
 - 🌱 I’m currently learning .net,java
 - 💞️ I’m looking to collaborate on all kinds of demo.
 - 📫 How to reach me 1664069063z@gmail.com
