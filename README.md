@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Austin-codeviewr
 - 👀 I’m interested in general componnent creating.
-- 🌱 I’m currently learning .net,java
-- 💞️ I’m looking to collaborate on all kinds of demo.
+- 🌱 I’m currently learning .net java wpf 
+- 💞️ I’m dedicated to creating a demo that is ready to use out of the box.
 - 📫 How to reach me 1664069063z@gmail.com
 
 <img align="left" src="https://raw.githubusercontent.com/softlgl/softlgl/output/github-contribution-grid-snake-dark.svg">
